@@ -7,3 +7,4 @@
 <code>
   go run main.go
 </code>
+<p>After running a program go to the <code>localhost:8080</code> and check pages with <code>/</code> or <code>/hello</code> or even form with <code>/form.html</code></p>
